@@ -106,7 +106,6 @@ int dequeue(int *k)
 
 void printGraphAdjacencyMatrix(int s) 
 {
-	// Τύπωση του λογικού πίνακα του γράφου
 	printf("\n \nGraph adjacency matrix:\n");
 
 	for (int i = 0; i < 12; i++) {
